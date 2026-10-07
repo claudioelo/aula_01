@@ -1,0 +1,1 @@
+Um h3 nunca devi vir antes de um h2 na seção porque os titulos sequem uma hierarquia, e o h3 é um subtitulo do h2, 
